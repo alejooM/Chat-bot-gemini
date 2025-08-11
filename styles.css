@@ -1,0 +1,20 @@
+ header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px;
+ }
+
+ section{
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+ }
+
+ footer{
+    background-color: black;
+    text-align: center;
+    padding: 18px;
+ }
